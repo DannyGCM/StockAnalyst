@@ -5,4 +5,4 @@ StockAnalyst is a stock analysis and prediction tool. Predictions are performed 
 StockAnalyst is public domain. Anyone is free to copy, modify, publish, use, compile, or distribute this software, either in source code form or as a compiled binary, for any purpose, commercial or non-commercial, and by any means.
 ## Info
 Author: Danny Garcia</br>
-Relese Date: 08/05/2019
+Relese Date: 10/10/2019
