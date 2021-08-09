@@ -49,7 +49,7 @@ pymunk==5.5.0
 pyparsing==2.4.0
 python-dateutil==2.8.0
 pytz==2019.1
-pywin32==224
+pywin32==301
 pywin32-ctypes==0.2.0
 realtime-stock==1.0.0
 requests==2.22.0
