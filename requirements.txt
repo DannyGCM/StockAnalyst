@@ -33,7 +33,7 @@ matplotlib==3.1.0
 mpl-finance==0.10.0
 multiprocess==0.70.8
 nltk==3.4.5
-numpy==1.16.4
+numpy==1.22.0
 pandas==0.24.2
 pandas-datareader==0.7.0
 pefile==2019.4.18
