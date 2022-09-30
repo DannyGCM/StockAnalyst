@@ -19,7 +19,7 @@ gevent==1.4.0
 gevent-websocket==0.10.1
 greenlet==0.4.15
 idna==2.8
-joblib==0.13.2
+joblib==1.2.0
 keyboard==0.13.3
 Kivy==1.11.1
 kivy-deps.glew==0.1.12
